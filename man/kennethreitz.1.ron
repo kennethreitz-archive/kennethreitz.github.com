@@ -12,6 +12,8 @@ Python, PHP, XHTML + CSS + JS, Boune, Grails, Java, C#, Scheme, Pascal.
 
 ## PROJECTS
 
+[USAJobs.gov Scraper](http://github.com/kennethreitz/usajobs-scraper), [mdWiki](http://github.com/kennethreitz/mdWiki), [PHP SWF Upload + Notify](http://github.com/kennethreitz/php-swfuploader-notify), [glee](http://github.com/kennethreitz/glee), and [open-icons](http://github.com/kennethreitz/open-icons).
+
 ### TextMate Add-ons
 [kHTML Bundle](http://github.com/kennethreitz/kHTML.tmbundle),
 [kCSS Bundle](http://github.com/kennethreitz/kCSS.tmbundle),
@@ -41,8 +43,10 @@ Python, PHP, XHTML + CSS + JS, Boune, Grails, Java, C#, Scheme, Pascal.
 [WP-Google-OpenID](http://github.com/kennethreitz/wp-google-openid), and
 [WP-Google-Chrome-Frame](http://github.com/kennethreitz/wp-google-chrome-frame).
 
+### 
+
 ### TOP SECRET (In Development)
-Pytake,  (dv)->S3.py
+Handy, Pytake,  (dv)->S3.py
 
 ### Smaller Scripts
 []
