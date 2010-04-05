@@ -8,12 +8,33 @@ Hi, I'm Kenneth Reitz. I Code.
 ## PROJECTS
 
 ### TextMate Add-ons
+* [kHTML Bundle](http://github.com/kennethreitz/kHTML.tmbundle)
+* [kCSS Bundle](http://github.com/kennethreitz/kCSS.tmbundle)
+* [kPHP Bundle](http://github.com/kennethreitz/kPHP.tmbundle)
+* [HTML5 Bundle](http://github.com/kennethreitz/html5.tmbundle)
+* [VibrantFin Theme](http://github.com/kennethreitz/vibrant-fin-textmate-theme)
+* [LoremIpsum2 Bundle](http://github.com/kennethreitz/loremipsum-2-textmate-bundle)
 
 
 ### WordPress Add-ons
 
-* WordPress Skeleton
-* WordPress Theme Skeleton
+* [WordPress Skeleton](http://github.com/kennethreitz/wordpress-skeleton)
+* [WordPress Theme Skeleton](http://github.com/kennethreitz/wordpress-theme-skeleton)
+* [Coreylib](http://github.com/kennethreitz/wp-coreylib)
+* [Async Google Analytics](http://github.com/kennethreitz/wp-async-google-analytics)
+* [Disable Updates](http://github.com/kennethreitz/wp-disable-updates)
+* [Draft Notify](http://github.com/kennethreitz/wp-draft-notify)
+* [WP-Clippy](http://github.com/kennethreitz/wp-clippy)
+* [WP-Clippy + Syntax](http://github.com/kennethreitz/wp-clippy-syntax)
+
+
+### Useless/old WordPress Add-ons
+
+* [Monolithic Theme](http://github.com/kennethreitz/monolithic-wordpress-theme)
+* [WP-Snowstorm](http://github.com/kennethreitz/wp-snowstorm)
+* [WP-jQuery-Tools](http://github.com/kennethreitz/wp-jquery-tools)
+* [WP-Google-OpenID](http://github.com/kennethreitz/wp-google-openid)
+* [WP-Google-Chrome-Frame](http://github.com/kennethreitz/wp-google-chrome-frame)
 
 #### Smaller Scripts
 
