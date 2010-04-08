@@ -1,50 +1,142 @@
-.\" generated with Ronn/v0.5
-.\" http://github.com/rtomayko/ronn/
-.
-.TH "KENNETH\-REITZ" "1" "April 2010" "" ""
-.
-.SH "NAME"
-\fBkenneth\-reitz\fR \-\- passionate web architect + developer
-.
-.SH "SYNOPSIS"
-Hi, I'm Kenneth Reitz. I'm a passionate well\-rounded developer. I'm the co\-founder and senior engineer of Züm Hosting. I write PHP + Python articles for The Changelog. I write Python video courses that are pirated worldwide. I report on open source news for Internet.com. I use serial commas and will until the day I die.
-I spend my day developing for Clutch Inc., an internet consulting firm in Winchester, VA. I spend my nights hacking away at everything I can possibly get my hands on (after I'm done working on my client work). Simply put, I try to make the internet a better place.
-.
-.SH "STUFF I WORK WITH"
-Python, PHP, XHTML + CSS + JS, Bourne, Groovy, C#, ColdFusion, Java, Scheme, limited C, and Pascal.
-.
-.P
-jQuery, Prototype, ExtJS, WordPress, CodeIgniter, Appcelerator Titanium, Redmine, Drupal, Joomla, Django, Pylons, Jekyll, Liquid, Shopify, Tumblr, TypePad, Octopress, Compass, SharePoint 2007, Grails, Capistrano, and Fiber.
-.
-.SH "TOOLKIT"
-OS X 10.6, 13" MacBook Pro (2.53GHz, 4.0GB, 500GB 7200), Google Chrome (dev), Things.app, Ulysses Core, Launchbar, Git + GitHub, Gist, Ubuntu JeOS, Zsh, Redmine, Curdbee, Linode, Cinch, Spotify, Tweetie, Amazon S3, MediaTemple, and ZümHosting.
-.
-.SH "OPEN SOURCE PROJECTS"
-\fI\fBUSAJobs.gov Scraper\fR\fR, \fI\fBmdWiki\fR\fR, \fI\fBPHP SWF Upload + Notify\fR\fR, \fI\fBglee\fR\fR, and \fI\fBopen\-icons\fR\fR.
-.
-.SS "TEXTMATE ADDONS"
-\fI\fBkHTML Bundle\fR\fR, \fI\fBkCSS Bundle\fR\fR, \fI\fBkPHP Bundle\fR\fR, \fI\fBHTML5 Bundle\fR\fR, \fI\fBVibrantFin Theme\fR\fR, and \fI\fBLoremIpsum2 Bundle\fR\fR.
-.
-.SS "WORDPRESS FRAMEWORKS"
-\fI\fBWordPress Skeleton\fR\fR and
-.
-.br
-\fI\fBWordPress Theme Skeleton\fR\fR.
-.
-.SS "WORDPRESS ADDONS"
-\fI\fBCoreylib\fR\fR, \fI\fBAsync Google Analytics\fR\fR, \fI\fBDisable Updates\fR\fR, \fI\fBDraft Notify\fR\fR, \fI\fBWP\-Clippy\fR\fR, and \fI\fBWP\-Clippy + Syntax\fR\fR.
-.
-.SS "Useless/old WordPress Add\-ons"
-\fIMonolithic Theme\fR, \fIWP\-Snowstorm\fR, \fIWP\-jQuery\-Tools\fR, \fIWP\-Google\-OpenID\fR, and \fIWP\-Google\-Chrome\-Frame\fR.
-.
-.SS ""
-.
-.SS "TOP SECRET (In Development)"
-\fBHandy\fR, \fBPytake\fR,  \fB(dv)\->S3.py\fR
-.
-.SH "CONTACT INFORMATION"
-Email: \fI\fBme@kennethreitz.com\fR\fR
-Phone: +1.540.200.8536
-.
-.SH "SEE ALSO"
-\fI\fBkennethreitz(5)\fR\fR, \fI\fBgithub.kennethreitz(1)\fR\fR
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv='content-type' value='text/html;charset=utf8'>
+  <meta name='generator' value='Ronn/v0.5'>
+  <title>kenneth-reitz(1) -- passionate web architect + developer</title>
+  <style type='text/css'>
+    body {margin:0}
+    #man, #man code, #man pre, #man tt, #man kbd, #man samp {
+      font-family:consolas,monospace;
+      font-size:16px;
+      line-height:1.3;
+      color:#343331;
+      background:#fff; }
+    #man { max-width:89ex; text-align:justify; margin:0 25px 25px 25px }
+    #man h1, #man h2, #man h3 { color:#232221;clear:left }
+    #man h1 { font-size:28px; margin:15px 0 30px 0; text-align:center }
+    #man h2 { font-size:18px; margin-bottom:0; margin-top:10px; line-height:1.3; }
+    #man h3 { font-size:16px; margin:0 0 0 4ex; }
+    #man p, #man ul, #man ol, #man dl, #man pre { margin:0 0 18px 0; }
+    #man pre {
+      color:#333231;
+      background:#edeceb;
+      padding:5px 7px;
+      margin:0px 0 20px 0;
+      border-left:2ex solid #ddd}
+    #man pre + h2, #man pre + h3 {
+      margin-top:22px;
+    }
+    #man h2 + pre, #man h3 + pre {
+      margin-top:5px;
+    }
+    #man > p, #man > ul, #man > ol, #man > dl, #man > pre { margin-left:8ex; }
+    #man dt { margin:0; clear:left }
+    #man dt.flush { float:left; width:8ex }
+    #man dd { margin:0 0 0 9ex }
+    #man code, #man strong, #man b { font-weight:bold; color:#131211; }
+    #man pre code { font-weight:normal; color:#232221; background:inherit }
+    #man em, var, u {
+      font-style:normal; color:#333231; border-bottom:1px solid #999; }
+    #man h1.man-title { display:none; }
+    #man ol.man, #man ol.man li { margin:2px 0 10px 0; padding:0;
+      float:left; width:33%; list-style-type:none;
+      text-transform:uppercase; font-size:18px; color:#999;
+      letter-spacing:1px;}
+    #man ol.man { width:100%; }
+    #man ol.man li.tl { text-align:left }
+    #man ol.man li.tc { text-align:center;letter-spacing:4px }
+    #man ol.man li.tr { text-align:right }
+    #man ol.man a { color:#999 }
+    #man ol.man a:hover { color:#333231 }
+  </style>
+</head>
+<body>
+<div id='man'>
+
+<h1 class='man-title'>kenneth-reitz(1)</h1>
+
+<ol class='head man'>
+  <li class='tl'>kenneth-reitz(1)</li>
+  <li class='tc'></li>
+  <li class='tr'>kenneth-reitz(1)</li>
+</ol>
+
+<h2 id='NAME'>NAME</h2>
+<p><code>kenneth-reitz</code> -- passionate web architect + developer</p>
+
+<h2>SYNOPSIS</h2>
+
+<p>Hi, I'm Kenneth Reitz. I'm a passionate well-rounded developer. I'm the co-founder and senior engineer of Züm Hosting. I write PHP + Python articles for The Changelog. I write Python video courses that are pirated worldwide. I report on open source news for Internet.com. I use serial commas and will until the day I die.
+I spend my day developing for Clutch Inc., an internet consulting firm in Winchester, VA. I spend my nights hacking away at everything I can possibly get my hands on (after I'm done working on my client work). Simply put, I try to make the internet a better place.</p>
+
+<h2>STUFF I WORK WITH</h2>
+
+<p>Python, PHP, XHTML + CSS + JS, Bourne, Groovy, C#, ColdFusion, Java, Scheme, limited C, and Pascal.</p>
+
+<p>jQuery, Prototype, ExtJS, WordPress, CodeIgniter, Appcelerator Titanium, Redmine, Drupal, Joomla, Django, Pylons, Jekyll, Liquid, Shopify, Tumblr, TypePad, Octopress, Compass, SharePoint 2007, Grails, Capistrano, and Fiber.</p>
+
+<h2>TOOLKIT</h2>
+
+<p>OS X 10.6, 13" MacBook Pro (2.53GHz, 4.0GB, 500GB 7200), Google Chrome (dev), Things.app, Ulysses Core, Launchbar, Git + GitHub, Gist, Ubuntu JeOS, Zsh, Redmine, Curdbee, Linode, Cinch, Spotify, Tweetie, Amazon S3, MediaTemple, and ZümHosting.</p>
+
+<h2>OPEN SOURCE PROJECTS</h2>
+
+<p><a href="http://github.com/kennethreitz/usajobs-scraper"><code>USAJobs.gov Scraper</code></a>, <a href="http://github.com/kennethreitz/mdWiki"><code>mdWiki</code></a>, <a href="http://github.com/kennethreitz/php-swfuploader-notify"><code>PHP SWF Upload + Notify</code></a>, <a href="http://github.com/kennethreitz/glee"><code>glee</code></a>, and <a href="http://github.com/kennethreitz/open-icons"><code>open-icons</code></a>.</p>
+
+<h3>TEXTMATE ADDONS</h3>
+
+<p><a href="http://github.com/kennethreitz/kHTML.tmbundle"><code>kHTML Bundle</code></a>,
+<a href="http://github.com/kennethreitz/kCSS.tmbundle"><code>kCSS Bundle</code></a>,
+<a href="http://github.com/kennethreitz/kPHP.tmbundle"><code>kPHP Bundle</code></a>,
+<a href="http://github.com/kennethreitz/html5.tmbundle"><code>HTML5 Bundle</code></a>,
+<a href="http://github.com/kennethreitz/vibrant-fin-textmate-theme"><code>VibrantFin Theme</code></a>, and
+<a href="http://github.com/kennethreitz/loremipsum-2-textmate-bundle"><code>LoremIpsum2 Bundle</code></a>.</p>
+
+<h3>WORDPRESS FRAMEWORKS</h3>
+
+<p><a href="http://code.kennethreitz.com/wordpress-skeleton/"><code>WordPress Skeleton</code></a> and<br />
+<a href="http://code.kennethreitz.com/wordpress-theme-skeleton/"><code>WordPress Theme Skeleton</code></a>.</p>
+
+<h3>WORDPRESS ADDONS</h3>
+
+<p><a href="http://github.com/kennethreitz/wp-coreylib"><code>Coreylib</code></a>,
+<a href="http://github.com/kennethreitz/wp-async-google-analytics"><code>Async Google Analytics</code></a>,
+<a href="http://github.com/kennethreitz/wp-disable-updates"><code>Disable Updates</code></a>,
+<a href="http://github.com/kennethreitz/wp-draft-notify"><code>Draft Notify</code></a>,
+<a href="http://github.com/kennethreitz/wp-clippy"><code>WP-Clippy</code></a>, and
+<a href="http://github.com/kennethreitz/wp-clippy-syntax"><code>WP-Clippy + Syntax</code></a>.</p>
+
+<h3>Useless/old WordPress Add-ons</h3>
+
+<p><a href="http://github.com/kennethreitz/monolithic-wordpress-theme">Monolithic Theme</a>,
+<a href="http://github.com/kennethreitz/wp-snowstorm">WP-Snowstorm</a>,
+<a href="http://github.com/kennethreitz/wp-jquery-tools">WP-jQuery-Tools</a>,
+<a href="http://github.com/kennethreitz/wp-google-openid">WP-Google-OpenID</a>, and
+<a href="http://github.com/kennethreitz/wp-google-chrome-frame">WP-Google-Chrome-Frame</a>.</p>
+
+<h3></h3>
+
+<h3>TOP SECRET (In Development)</h3>
+
+<p><code>Handy</code>, <code>Pytake</code>,  <code>(dv)-&gt;S3.py</code></p>
+
+<h2>CONTACT INFORMATION</h2>
+
+<p>Email: <a href="mailto:me@kennethreitz.com"><code>me@kennethreitz.com</code></a>
+Phone: +1.540.200.8536</p>
+
+<h2>SEE ALSO</h2>
+
+<p><a href="http://kennethreitz.com"><code>kennethreitz(5)</code></a>, <a href="http://github.com/kennethreitz"><code>github.kennethreitz(1)</code></a></p>
+
+
+<ol class='foot man'>
+  <li class='tl'></li>
+  <li class='tc'>April 2010</li>
+  <li class='tr'>kenneth-reitz(1)</li>
+</ol>
+
+</div>
+</body>
+</html>
