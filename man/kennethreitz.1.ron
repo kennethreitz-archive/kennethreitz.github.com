@@ -23,27 +23,31 @@ OS X 10.6, 13" MacBook Pro (2.53GHz, 4.0GB, 500GB 7200), Google Chrome (dev), Th
 
 ## OPEN SOURCE PROJECTS
 
-[USAJobs.gov Scraper](http://github.com/kennethreitz/usajobs-scraper), [mdWiki](http://github.com/kennethreitz/mdWiki), [PHP SWF Upload + Notify](http://github.com/kennethreitz/php-swfuploader-notify), [glee](http://github.com/kennethreitz/glee), and [open-icons](http://github.com/kennethreitz/open-icons).
+[`USAJobs.gov Scraper`](http://github.com/kennethreitz/usajobs-scraper), [`mdWiki`](http://github.com/kennethreitz/mdWiki), [`PHP SWF Upload + Notify`](http://github.com/kennethreitz/php-swfuploader-notify), [`glee`](http://github.com/kennethreitz/glee), and [`open-icons`](http://github.com/kennethreitz/open-icons).
 
-### TextMate Add-ons
-[kHTML Bundle](http://github.com/kennethreitz/kHTML.tmbundle),
-[kCSS Bundle](http://github.com/kennethreitz/kCSS.tmbundle),
-[kPHP Bundle](http://github.com/kennethreitz/kPHP.tmbundle),
-[HTML5 Bundle](http://github.com/kennethreitz/html5.tmbundle),
-[VibrantFin Theme](http://github.com/kennethreitz/vibrant-fin-textmate-theme), and
-[LoremIpsum2 Bundle](http://github.com/kennethreitz/loremipsum-2-textmate-bundle).
+### TEXTMATE ADDONS
+[`kHTML Bundle`](http://github.com/kennethreitz/kHTML.tmbundle),
+[`kCSS Bundle`](http://github.com/kennethreitz/kCSS.tmbundle),
+[`kPHP Bundle`](http://github.com/kennethreitz/kPHP.tmbundle),
+[`HTML5 Bundle`](http://github.com/kennethreitz/html5.tmbundle),
+[`VibrantFin Theme`](http://github.com/kennethreitz/vibrant-fin-textmate-theme), and
+[`LoremIpsum2 Bundle`](http://github.com/kennethreitz/loremipsum-2-textmate-bundle).
 
 
-### WordPress Add-ons
+### WORDPRESS FRAMEWORKS
 
-[WordPress Skeleton](http://code.kennethreitz.com/wordpress-skeleton/),
-[WordPress Theme Skeleton](http://github.com/kennethreitz/wordpress-theme-skeleton),
-[Coreylib](http://github.com/kennethreitz/wp-coreylib),
-[Async Google Analytics](http://github.com/kennethreitz/wp-async-google-analytics),
-[Disable Updates](http://github.com/kennethreitz/wp-disable-updates),
-[Draft Notify](http://github.com/kennethreitz/wp-draft-notify),
-[WP-Clippy](http://github.com/kennethreitz/wp-clippy), and
-[WP-Clippy + Syntax](http://github.com/kennethreitz/wp-clippy-syntax).
+[`WordPress Skeleton`](http://code.kennethreitz.com/wordpress-skeleton/) and  
+[`WordPress Theme Skeleton`](http://code.kennethreitz.com/wordpress-theme-skeleton/).
+
+### WORDPRESS ADDONS
+
+
+[`Coreylib`](http://github.com/kennethreitz/wp-coreylib),
+[`Async Google Analytics`](http://github.com/kennethreitz/wp-async-google-analytics),
+[`Disable Updates`](http://github.com/kennethreitz/wp-disable-updates),
+[`Draft Notify`](http://github.com/kennethreitz/wp-draft-notify),
+[`WP-Clippy`](http://github.com/kennethreitz/wp-clippy), and
+[`WP-Clippy + Syntax`](http://github.com/kennethreitz/wp-clippy-syntax).
 
 
 ### Useless/old WordPress Add-ons
@@ -57,15 +61,15 @@ OS X 10.6, 13" MacBook Pro (2.53GHz, 4.0GB, 500GB 7200), Google Chrome (dev), Th
 ### 
 
 ### TOP SECRET (In Development)
-Handy, Pytake,  (dv)->S3.py
+`Handy`, `Pytake`,  `(dv)->S3.py`
 
 
 ## CONTACT INFORMATION
 
-Email: <me@kennethreitz.com>  
+Email: [`me@kennethreitz.com`](mailto:me@kennethreitz.com)
 Phone: +1.540.200.8536 
 
 
 ## SEE ALSO
 
-<http://kennethreitz.com>, <http://github.com/kennethreitz>
+[`kennethreitz(5)`](http://kennethreitz.com), [`github.kennethreitz(1)`](http://github.com/kennethreitz)
