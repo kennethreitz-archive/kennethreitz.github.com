@@ -25,7 +25,7 @@ OS X 10.6, 13" MacBook Pro (2.53GHz, 4.0GB, 500GB 7200), Google Chrome (dev), Th
 
 [`USAJobs.gov Scraper`](http://github.com/kennethreitz/usajobs-scraper), [`mdWiki`](http://github.com/kennethreitz/mdWiki), [`PHP SWF Upload + Notify`](http://github.com/kennethreitz/php-swfuploader-notify), [`glee`](http://github.com/kennethreitz/glee), and [`open-icons`](http://github.com/kennethreitz/open-icons).
 
-### TEXTMATE ADDONS
+### TextMate AddOns
 [`kHTML Bundle`](http://github.com/kennethreitz/kHTML.tmbundle),
 [`kCSS Bundle`](http://github.com/kennethreitz/kCSS.tmbundle),
 [`kPHP Bundle`](http://github.com/kennethreitz/kPHP.tmbundle),
@@ -34,12 +34,12 @@ OS X 10.6, 13" MacBook Pro (2.53GHz, 4.0GB, 500GB 7200), Google Chrome (dev), Th
 [`LoremIpsum2 Bundle`](http://github.com/kennethreitz/loremipsum-2-textmate-bundle).
 
 
-### WORDPRESS FRAMEWORKS
+### WordPress Frameworks
 
 [`WordPress Skeleton`](http://code.kennethreitz.com/wordpress-skeleton/) and  
 [`WordPress Theme Skeleton`](http://code.kennethreitz.com/wordpress-theme-skeleton/).
 
-### WORDPRESS ADDONS
+### WordPress AddOns
 
 
 [`Coreylib`](http://github.com/kennethreitz/wp-coreylib),
@@ -52,15 +52,14 @@ OS X 10.6, 13" MacBook Pro (2.53GHz, 4.0GB, 500GB 7200), Google Chrome (dev), Th
 
 ### Useless/old WordPress Add-ons
 
-[Monolithic Theme](http://github.com/kennethreitz/monolithic-wordpress-theme),
-[WP-Snowstorm](http://github.com/kennethreitz/wp-snowstorm),
-[WP-jQuery-Tools](http://github.com/kennethreitz/wp-jquery-tools),
-[WP-Google-OpenID](http://github.com/kennethreitz/wp-google-openid), and
-[WP-Google-Chrome-Frame](http://github.com/kennethreitz/wp-google-chrome-frame).
+[`Monolithic Theme`](http://github.com/kennethreitz/monolithic-wordpress-theme),
+[`WP-Snowstorm`](http://github.com/kennethreitz/wp-snowstorm),
+[`WP-jQuery-Tools`](http://github.com/kennethreitz/wp-jquery-tools),
+[`WP-Google-OpenID`](http://github.com/kennethreitz/wp-google-openid), and
+[`WP-Google-Chrome-Frame`](http://github.com/kennethreitz/wp-google-chrome-frame).
 
-### 
 
-### TOP SECRET (In Development)
+### Top Secret (In Development)
 `Handy`, `Pytake`,  `(dv)->S3.py`
 
 
