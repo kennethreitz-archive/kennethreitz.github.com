@@ -27,10 +27,13 @@ OS X 10.6, 13" MacBook Pro (2.53GHz, 4.0GB, 500GB 7200), Google Chrome (dev), Th
 [`Instareader.py`](http://github.com/kennethreitz/instareader.py), [`USAJobs.gov Scraper`](http://github.com/kennethreitz/usajobs-scraper), [`mdWiki`](http://github.com/kennethreitz/mdWiki), [`PHP SWF Upload + Notify`](http://github.com/kennethreitz/php-swfuploader-notify), [`glee`](http://github.com/kennethreitz/glee), and [`open-icons`](http://github.com/kennethreitz/open-icons).
 
 ### TextMate AddOns
+[`kCode Bundle`](http://github.com/kennethreitz/kCode.tmBundle),
 [`kHTML Bundle`](http://github.com/kennethreitz/kHTML.tmbundle),
 [`kCSS Bundle`](http://github.com/kennethreitz/kCSS.tmbundle),
 [`kPHP Bundle`](http://github.com/kennethreitz/kPHP.tmbundle),
 [`HTML5 Bundle`](http://github.com/kennethreitz/html5.tmbundle),
+[`kCode Bundle`](http://github.com/kennethreitz/kCode.tmBundle),
+[`krTheme`](http://github.com/kennethreitz/krTheme.tmTheme),
 [`VibrantFin Theme`](http://github.com/kennethreitz/vibrant-fin-textmate-theme), and
 [`LoremIpsum2 Bundle`](http://github.com/kennethreitz/loremipsum-2-textmate-bundle).
 
