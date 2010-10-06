@@ -23,7 +23,7 @@ WSGI + Flask, Django, jQuery, Prototype, ExtJS, WordPress, CodeIgniter, Appceler
 OS X 10.6.x, 15" MacBook Pro (2.6GHz i&, 8.0GB, 256GB SSD, 500GB 7200 HDD, No SuperDrive), Google Chrome (dev), Things.app, Ulysses Core, Launchbar, Git + GitHub, Gist, Ubuntu JeOS, Zsh, Redmine, Curdbee, Linode, Cinch, Spotify, Tweetie, Amazon S3, MediaTemple, and ZümHosting. 
 
 ## OPEN SOURCE PROJECTS
-[`Tablib`]
+[`Tablib`](http://github.com/kennethreitz/tablib), [`ShowMe`](http://github.com/kennethreitz/showme), [`Argue`](http://github.com/kennethreitz/argue), [`GistAPI`](github.com/kennethreitz/gistapi.py/), [`Xerox`](http://github.com/kennethreitz/xerox).  
 [`Instareader.py`](http://github.com/kennethreitz/instareader.py), [`USAJobs.gov Scraper`](http://github.com/kennethreitz/usajobs-scraper), [`mdWiki`](http://github.com/kennethreitz/mdWiki), [`PHP SWF Upload + Notify`](http://github.com/kennethreitz/php-swfuploader-notify), [`glee`](http://github.com/kennethreitz/glee), and [`open-icons`](http://github.com/kennethreitz/open-icons).
 
 ### TextMate AddOns
