@@ -1,5 +1,5 @@
 <style type="text/css" media="screen">
-	a {color: black;}
+	a {color: black!important;}
 </style>
 
 kenneth-reitz(1) -- passionate web architect + developer
@@ -17,7 +17,7 @@ WSGI + Flask, Django, jQuery, Prototype, ExtJS, WordPress, CodeIgniter, Appceler
 
 
 ## TOOLKIT
-OS X 10.6.x, 15" MacBook Pro (2.6GHz i&, 8.0GB, 256GB SSD, 500GB 7200 HDD, No SuperDrive), Google Chrome (dev), Things.app, Ulysses Core, Launchbar, Git + GitHub, Gist, Ubuntu JeOS, Zsh, Redmine, Curdbee, Linode, Cinch, Spotify, Tweetie, Amazon S3, MediaTemple, and ZümHosting. 
+OS X 10.6.x, 15" MacBook Pro (2.6GHz i7, 8.0GB, 256GB SSD, 500GB 7200 HDD, No SuperDrive), Google Chrome (dev), Things.app, Ulysses Core, Launchbar, Git + GitHub, Gist, Ubuntu JeOS, Zsh, Redmine, Curdbee, Linode, Cinch, Spotify, Tweetie, Amazon S3, MediaTemple, and ZümHosting. 
 
 ## OPEN SOURCE PROJECTS
 [`Tablib`](http://github.com/kennethreitz/tablib), [`ShowMe`](http://github.com/kennethreitz/showme), [`Argue`](http://github.com/kennethreitz/argue), [`GistAPI`](github.com/kennethreitz/gistapi.py/), [`Xerox`](http://github.com/kennethreitz/xerox).  
