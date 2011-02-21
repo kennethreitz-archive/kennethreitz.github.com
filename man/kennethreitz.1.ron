@@ -7,33 +7,42 @@ kenneth-reitz(1) -- passionate web architect + developer
 
 ## SYNOPSIS
 
-Hi, I'm Kenneth Reitz. I'm a passionate well-rounded developer. I'm the co-founder and senior engineer of Züm Hosting. I write for (and occasionally co-host) at for [The Changelog](http://thechangelog.com). I write Python video courses that are pirated worldwide. I use serial commas and will until the day I die. 
-I spend my day developing for NetApp Inc., the world's premier data storage provider. I spend my nights hacking away at some open source projects
+Hi, I'm Kenneth Reitz. I'm a passionate well-rounded developer. I write and occasionally co-host at  [The Changelog](http://thechangelog.com). I write Python video courses that are pirated worldwide. I use serial commas and will until the day I die. 
+I spend my day developing for NetApp Inc., the world's premier tier-2 storage provider. I spend my nights hacking away at some open source projects
 
 ## STUFF I WORK WITH
 Python, PyQt, PHP, (real) JavaScript, XHTML + CSS, Bourne, Groovy, C#, and Scheme.
 
-WSGI + Flask, Django, jQuery, Prototype, ExtJS, WordPress, CodeIgniter, Appcelerator Titanium, Redmine, Drupal, Joomla, Pylons, Jekyll, Liquid, Shopify, Tumblr, TypePad, Octopress, Compass, SharePoint 2007, and Grails. 
+WSGI + Flask, SqlAlchemy, Django, jQuery, Prototype, ExtJS, WordPress, CodeIgniter, Appcelerator Titanium, Redmine, Drupal, Joomla, Pylons, Jekyll, Liquid, Shopify, Tumblr, TypePad, Octopress, Compass, SharePoint 2007, and Grails. 
 
 
 ## TOOLKIT
-OS X 10.6.x, 15" MacBook Pro (2.6GHz i7, 8.0GB, 256GB SSD, 500GB 7200 HDD, No SuperDrive), Google Chrome (dev), Things.app, Ulysses Core, Launchbar, Git + GitHub, Gist, Ubuntu JeOS, Zsh, Redmine, Curdbee, Linode, Cinch, Spotify, Tweetie, Amazon S3, MediaTemple, and ZümHosting. 
+OS X 10.6.x, 15" MacBook Pro (2.6GHz i7, 8.0GB, 256GB SSD, 500GB 7200 HDD, No SuperDrive), Git, Zsh, Google Chrome, Things.app, Ulysses Core, Launchbar, GitHub, Gists, Boom, Ubuntu JeOS, Zsh, Redmine, Curdbee, Linode, Cinch, VMware Fusion, Spotify, Tweetie, Amazon S3, MediaTemple, WebFaction, and Rackspace Cloud. 
 
 ## OPEN SOURCE PROJECTS
-[`Tablib`](http://github.com/kennethreitz/tablib), [`ShowMe`](http://github.com/kennethreitz/showme), [`Argue`](http://github.com/kennethreitz/argue), [`GistAPI`](github.com/kennethreitz/gistapi.py/), [`Xerox`](http://github.com/kennethreitz/xerox).  
-[`Instareader.py`](http://github.com/kennethreitz/instareader.py), [`USAJobs.gov Scraper`](http://github.com/kennethreitz/usajobs-scraper), [`mdWiki`](http://github.com/kennethreitz/mdWiki), [`PHP SWF Upload + Notify`](http://github.com/kennethreitz/php-swfuploader-notify), [`glee`](http://github.com/kennethreitz/glee), and [`open-icons`](http://github.com/kennethreitz/open-icons).
+[`Tablib`](https://github.com/kennethreitz/tablib),
+[`Requests`](https://github.com/kennethreitz/requests),
+[`python-convore`](https://github.com/kennethreitz/python-convore),
+[`gh-sync`](https://github.com/kennethreitz/ghsync),
+[`unzipit`](https://github.com/kennethreitz/unzipit),
+[`winchestar`](https://github.com/kennethreitz/winchestar),
+[`pyandoc`](https://github.com/kennethreitz/pyandoc),
+
+
+[`ShowMe`](https://github.com/kennethreitz/showme), [`Argue`](https://github.com/kennethreitz/argue), [`GistAPI`](github.com/kennethreitz/gistapi.py/), [`Xerox`](https://github.com/kennethreitz/xerox).  
+[`Instareader.py`](https://github.com/kennethreitz/instareader.py), [`USAJobs.gov Scraper`](https://github.com/kennethreitz/usajobs-scraper), [`mdWiki`](https://github.com/kennethreitz/mdWiki), [`PHP SWF Upload + Notify`](https://github.com/kennethreitz/php-swfuploader-notify), [`glee`](https://github.com/kennethreitz/glee), and [`open-icons`](https://github.com/kennethreitz/open-icons).
 
 ### TextMate AddOns
-[`kCode`](http://github.com/kennethreitz/kCode.tmBundle),
-[`kHTML`](http://github.com/kennethreitz/kHTML.tmbundle),
-[`kCSS`](http://github.com/kennethreitz/kCSS.tmbundle),
-[`kPHP`](http://github.com/kennethreitz/kPHP.tmbundle),
-[`HTML5`](http://github.com/kennethreitz/html5.tmbundle),
-[`kCode`](http://github.com/kennethreitz/kCode.tmBundle),
-[`krTheme`](http://github.com/kennethreitz/krTheme.tmTheme),
-[`DummyImage`](http://github.com/kennethreitz/DummyImage.tmBundle),
-[`VibrantFin Theme`](http://github.com/kennethreitz/vibrant-fin-textmate-theme), and
-[`LoremIpsum2`](http://github.com/kennethreitz/loremipsum-2-textmate-bundle).
+[`kCode`](https://github.com/kennethreitz/kCode.tmBundle),
+[`kHTML`](https://github.com/kennethreitz/kHTML.tmbundle),
+[`kCSS`](https://github.com/kennethreitz/kCSS.tmbundle),
+[`kPHP`](https://github.com/kennethreitz/kPHP.tmbundle),
+[`HTML5`](https://github.com/kennethreitz/html5.tmbundle),
+[`kCode`](https://github.com/kennethreitz/kCode.tmBundle),
+[`krTheme`](https://github.com/kennethreitz/krTheme.tmTheme),
+[`DummyImage`](https://github.com/kennethreitz/DummyImage.tmBundle),
+[`VibrantFin Theme`](https://github.com/kennethreitz/vibrant-fin-textmate-theme), and
+[`LoremIpsum2`](https://github.com/kennethreitz/loremipsum-2-textmate-bundle).
 
 
 ### WordPress Frameworks
@@ -44,25 +53,22 @@ OS X 10.6.x, 15" MacBook Pro (2.6GHz i7, 8.0GB, 256GB SSD, 500GB 7200 HDD, No Su
 ### WordPress AddOns
 
 
-[`Coreylib`](http://github.com/kennethreitz/wp-coreylib),
-[`Async Google Analytics`](http://github.com/kennethreitz/wp-async-google-analytics),
-[`Disable Updates`](http://github.com/kennethreitz/wp-disable-updates),
-[`Draft Notify`](http://github.com/kennethreitz/wp-draft-notify),
-[`WP-Clippy`](http://github.com/kennethreitz/wp-clippy), and
-[`WP-Clippy + Syntax`](http://github.com/kennethreitz/wp-clippy-syntax).
+[`Coreylib`](https://github.com/kennethreitz/wp-coreylib),
+[`Async Google Analytics`](https://github.com/kennethreitz/wp-async-google-analytics),
+[`Disable Updates`](https://github.com/kennethreitz/wp-disable-updates),
+[`Draft Notify`](https://github.com/kennethreitz/wp-draft-notify),
+[`WP-Clippy`](https://github.com/kennethreitz/wp-clippy), and
+[`WP-Clippy + Syntax`](https://github.com/kennethreitz/wp-clippy-syntax).
 
 
 ### Useless/old WordPress Add-ons
 
-[`Monolithic Theme`](http://github.com/kennethreitz/monolithic-wordpress-theme),
-[`WP-Snowstorm`](http://github.com/kennethreitz/wp-snowstorm),
-[`WP-jQuery-Tools`](http://github.com/kennethreitz/wp-jquery-tools),
-[`WP-Google-OpenID`](http://github.com/kennethreitz/wp-google-openid), and
-[`WP-Google-Chrome-Frame`](http://github.com/kennethreitz/wp-google-chrome-frame).
+[`Monolithic Theme`](https://github.com/kennethreitz/monolithic-wordpress-theme),
+[`WP-Snowstorm`](https://github.com/kennethreitz/wp-snowstorm),
+[`WP-jQuery-Tools`](https://github.com/kennethreitz/wp-jquery-tools),
+[`WP-Google-OpenID`](https://github.com/kennethreitz/wp-google-openid), and
+[`WP-Google-Chrome-Frame`](https://github.com/kennethreitz/wp-google-chrome-frame).
 
-
-### Top Secret (In Development)
-`GistHub for iPad`, `Things.py`, `things-github`, `changelog-cli`, `Handy`, `Pytake`,  `(dv)->S3.py`
 
 
 ## CONTACT INFORMATION
@@ -73,4 +79,4 @@ Phone: +1.540.200.8536
 
 ## SEE ALSO
 
-[`kennethreitz(8)`](http://kennethreitz.com), [`github.kennethreitz(1)`](http://github.com/kennethreitz)
+[`kennethreitz(8)`](http://kennethreitz.com), [`github.kennethreitz(1)`](https://github.com/kennethreitz)
